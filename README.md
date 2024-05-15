@@ -1,3 +1,7 @@
+## Init
+
+pyenv activate jupyter
+jupyer notebook
 ## Links
 
 - https://brandonrozek.com/blog/jupyterwithpyenv/
